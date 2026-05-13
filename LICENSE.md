@@ -1,4 +1,4 @@
-
+instant AppCleaner for macOS Module | battery-health + screenshot-tools offers the most advanced AppCleaner for macOS module, with battery-health and screenshot-tools. Ideal for
 
 
 
